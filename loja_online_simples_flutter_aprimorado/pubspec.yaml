@@ -1,0 +1,16 @@
+name: loja_online_simples_flutter
+description: Loja de materiais de festa - Festa & Alegria. Exemplo didático em Flutter e Dart.
+publish_to: 'none'
+version: 2.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/products.json

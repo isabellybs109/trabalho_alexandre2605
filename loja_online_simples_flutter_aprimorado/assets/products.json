@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1001",
+    "name": "Balões Coloridos (50un)",
+    "price": 24.90,
+    "stock": 120,
+    "icon": "balloon",
+    "shortDescription": "Balões sortidos para decoração de festas.",
+    "longDescription": "Pacote com 50 balões de látex nas cores mais vibrantes: vermelho, azul, amarelo, verde e rosa. Ideais para decorar aniversários, formaturas e festas temáticas. Fáceis de encher e com boa durabilidade."
+  },
+  {
+    "id": "1002",
+    "name": "Kit Decoração Temática",
+    "price": 89.90,
+    "stock": 35,
+    "icon": "party",
+    "shortDescription": "Tudo para montar a decoração perfeita.",
+    "longDescription": "Kit completo com faixas de Happy Birthday, pompons de papel, guirlandas coloridas, confetes e toalha de mesa descartável. Disponível em temas: Unicórnio, Safari, Astronauta e Arco-Íris. Decora mesas e ambientes com facilidade."
+  },
+  {
+    "id": "1003",
+    "name": "Velas de Aniversário (12un)",
+    "price": 12.90,
+    "stock": 200,
+    "icon": "cake",
+    "shortDescription": "Velas coloridas para o bolo especial.",
+    "longDescription": "Pacote com 12 velas tradicionais sortidas em cores vibrantes. Também disponíveis em formato de número para personalizar o bolo do aniversariante. Queima uniforme e segura, com haste firme para não tombar."
+  },
+  {
+    "id": "1004",
+    "name": "Lembrancinhas Personalizadas (10un)",
+    "price": 49.90,
+    "stock": 60,
+    "icon": "gift",
+    "shortDescription": "Lembrancinhas fofas para os convidados.",
+    "longDescription": "Conjunto com 10 caixinhas kraft personalizáveis com tag de agradecimento. Perfeitas para guardar docinhos, balas ou pequenos presentes. Montagem simples e visual charmoso para qualquer tipo de festa."
+  },
+  {
+    "id": "1005",
+    "name": "Toalha de Mesa Descartável",
+    "price": 18.90,
+    "stock": 85,
+    "icon": "table",
+    "shortDescription": "Praticidade e estilo para a mesa da festa.",
+    "longDescription": "Toalha descartável resistente em TNT, tamanho 140x220cm. Disponível nas cores branco, rosa, azul royal, vermelho e dourado. Não rasga com facilidade e mantém visual bonito durante toda a festa."
+  }
+]
